@@ -51,7 +51,7 @@
     </setting>
     <setting name="InhDefaultUseCredSsp">False</setting>
     <setting name="QuickyTBParentDock">Top</setting>
-    <setting name="SaveConnectionsAfterEveryEdit">False</setting>
+    <setting name="SaveConnectionsAfterEveryEdit">True</setting>
     <setting name="InhDefaultVNCProxyPort">False</setting>
     <setting name="ConDefaultIcon">mRemoteNG</setting>
     <setting name="NoReconnect">False</setting>
@@ -66,7 +66,7 @@
     <setting name="OverrideFIPSCheck">False</setting>
     <setting name="InhDefaultRDGatewayUseConnectionCredentials">False</setting>
     <setting name="InhDefaultRDGatewayHostname">False</setting>
-    <setting name="CheckForUpdatesAsked">True</setting>
+    <setting name="CheckForUpdatesAsked">False</setting>
     <setting name="ReconnectOnDisconnect">False</setting>
     <setting name="DoubleClickOnTabClosesIt">False</setting>
     <setting name="SingleClickOnConnectionOpensIt">False</setting>
@@ -110,7 +110,7 @@
     <setting name="MainFormRestoreSize">1145, 610</setting>
     <setting name="InhDefaultVNCAuthMode">False</setting>
     <setting name="FirstStart">False</setting>
-    <setting name="CustomConsPath">..\..\Data\confCons.xml</setting>
+    <setting name="CustomConsPath">C:\PortableApps\PortableApps\mRemoteNG_Portable\Data\confCons.xml</setting>
     <setting name="NotificationPanelWriterWriteDebugMsgs">False</setting>
     <setting name="ConDefaultColors">Colors16Bit</setting>
     <setting name="ShowConfigHelpText">True</setting>
@@ -121,7 +121,6 @@
     </setting>
     <setting name="MainFormState">Maximized</setting>
     <setting name="LoadConsFromCustomLocation">True</setting>
-    <setting name="LoadConsFromCustomLocation">False</setting>
     <setting name="ConDefaultRDGatewayUsername">
     </setting>
     <setting name="MainFormLocation">-8, -8</setting>
@@ -146,7 +145,7 @@
     <setting name="MinimizeToTray">False</setting>
     <setting name="InhDefaultRDPMinutesToIdleTimeout">False</setting>
     <setting name="InhDefaultPassword">False</setting>
-    <setting name="LogFilePath">..\..\Data\mRemoteNG.log</setting>
+    <setting name="LogFilePath">C:\PortableApps\PortableApps\mRemoteNG_Portable\Data\mRemoteNG.log</setting>
     <setting name="InhDefaultColors">False</setting>
     <setting name="PuttySavedSessionsPanel">General</setting>
     <setting name="InhDefaultRDGatewayPassword">False</setting>
@@ -199,8 +198,7 @@
     <setting name="SwitchToMCOnWarning">True</setting>
     <setting name="UpdateProxyAuthPass">
     </setting>
-    <setting name="CheckForUpdatesLastCheck">
-    </setting>
+    <setting name="CheckForUpdatesLastCheck">12/08/2025 21:24:22</setting>
     <setting name="EncryptionKeyDerivationIterations">1000</setting>
     <setting name="ConDefaultRenderingEngine">IE</setting>
     <setting name="InhDefaultPreExtApp">False</setting>
@@ -230,7 +228,7 @@
     <setting name="ConDefaultUsername">
     </setting>
     <setting name="LockToolbars">False</setting>
-    <setting name="UpdateChannel">Stable</setting>
+    <setting name="UpdateChannel">release</setting>
     <setting name="ConfirmCloseConnection">4</setting>
     <setting name="ConDefaultRDPMinutesToIdleTimeout">0</setting>
     <setting name="SetHostnameLikeDisplayName">False</setting>

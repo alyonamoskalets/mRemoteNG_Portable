@@ -31,4 +31,5 @@ You are very welcome to contact me or raise an issue, if any, [here on GitHub](h
 You can support the further development of this particular project, as well as my other projects on GitHub by buying me a cup of tasty coffee.
 
 ![Buy Me A Coffee](https://i.ibb.co/HL7n6p9r/default-yellow-220x62.png)
+
 [Donate](https://www.buymeacoffee.com/alyonamoskalets)

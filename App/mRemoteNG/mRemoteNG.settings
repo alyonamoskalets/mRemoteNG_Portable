@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <localSettings>
+    <setting name="InhDefaultRedirectPrinters">False</setting>
+    <setting name="TextLogMessageWriterWriteWarningMsgs">True</setting>
+    <setting name="ConDefaultMacAddress">
+    </setting>
+    <setting name="ConDefaultVNCSmartSizeMode">SmartSAspect</setting>
+    <setting name="UseCustomPuttyPath">False</setting>
+    <setting name="InhDefaultICAEncryptionStrength">False</setting>
+    <setting name="ConDefaultVNCCompression">CompNone</setting>
+    <setting name="MainFormKiosk">False</setting>
+    <setting name="InhDefaultDisplayThemes">False</setting>
+    <setting name="InhDefaultDomain">False</setting>
+    <setting name="ShowDescriptionTooltipsInTree">False</setting>
+    <setting name="InhDefaultVNCViewOnly">False</setting>
+    <setting name="ConDefaultVNCProxyType">ProxyNone</setting>
+    <setting name="InhDefaultRedirectDiskDrives">False</setting>
+    <setting name="CreateEmptyPanelOnStartUp">False</setting>
+    <setting name="QuickyTBLocation">3, 24</setting>
+    <setting name="InhDefaultVNCColors">False</setting>
+    <setting name="InhDefaultCredentialRecord">False</setting>
+    <setting name="QuickyTBVisible">True</setting>
+    <setting name="ConDefaultRedirectDiskDrives">False</setting>
+    <setting name="InhDefaultResolution">False</setting>
+    <setting name="ConDefaultPreExtApp">
+    </setting>
+    <setting name="InhDefaultUseConsoleSession">False</setting>
+    <setting name="ConDefaultRDGatewayUseConnectionCredentials">Yes</setting>
+    <setting name="DefaultUsername">
+    </setting>
+    <setting name="InhDefaultDisplayWallpaper">False</setting>
+    <setting name="InhDefaultCacheBitmaps">False</setting>
+    <setting name="TextLogMessageWriterWriteDebugMsgs">False</setting>
+    <setting name="ConDefaultRDGatewayHostname">
+    </setting>
+    <setting name="InhDefaultPuttySession">False</setting>
+    <setting name="InhDefaultSoundQuality">False</setting>
+    <setting name="UpdateProxyUseAuthentication">False</setting>
+    <setting name="ConDefaultPuttySession">Default Settings</setting>
+    <setting name="DefaultDomain">
+    </setting>
+    <setting name="ExtAppsTBLocation">3, 25</setting>
+    <setting name="AlwaysShowPanelSelectionDlg">False</setting>
+    <setting name="EncryptionEngine">AES</setting>
+    <setting name="CheckForUpdatesOnStartup">False</setting>
+    <setting name="ConDefaultCacheBitmaps">False</setting>
+    <setting name="ResetToolbars">False</setting>
+    <setting name="ConDefaultAutomaticResize">True</setting>
+    <setting name="UpdateProxyAuthUser">
+    </setting>
+    <setting name="InhDefaultUseCredSsp">False</setting>
+    <setting name="QuickyTBParentDock">Top</setting>
+    <setting name="SaveConnectionsAfterEveryEdit">False</setting>
+    <setting name="InhDefaultVNCProxyPort">False</setting>
+    <setting name="ConDefaultIcon">mRemoteNG</setting>
+    <setting name="NoReconnect">False</setting>
+    <setting name="MainFormRestoreLocation">156, 156</setting>
+    <setting name="NotificationPanelWriterWriteWarningMsgs">True</setting>
+    <setting name="InhDefaultRedirectKeys">False</setting>
+    <setting name="ConDefaultVNCProxyUsername">
+    </setting>
+    <setting name="InhDefaultAutomaticResize">False</setting>
+    <setting name="EmptyCredentials">noinfo</setting>
+    <setting name="ThemingActive">False</setting>
+    <setting name="OverrideFIPSCheck">False</setting>
+    <setting name="InhDefaultRDGatewayUseConnectionCredentials">False</setting>
+    <setting name="InhDefaultRDGatewayHostname">False</setting>
+    <setting name="CheckForUpdatesAsked">True</setting>
+    <setting name="ReconnectOnDisconnect">False</setting>
+    <setting name="DoubleClickOnTabClosesIt">False</setting>
+    <setting name="SingleClickOnConnectionOpensIt">False</setting>
+    <setting name="SQLPass">
+    </setting>
+    <setting name="ConDefaultRDGatewayPassword">
+    </setting>
+    <setting name="MaxPuttyWaitTime">2</setting>
+    <setting name="ConDefaultRDGatewayUsageMethod">Never</setting>
+    <setting name="SaveConsOnExit">True</setting>
+    <setting name="ConDefaultCredentialRecord">00000000-0000-0000-0000-000000000000</setting>
+    <setting name="ExtAppsTBShowText">True</setting>
+    <setting name="ConDefaultRDPAlertIdleTimeout">False</setting>
+    <setting name="OpenConsFromLastSession">False</setting>
+    <setting name="MultiSshToolbarLocation">3, 0</setting>
+    <setting name="EncryptionBlockCipherMode">GCM</setting>
+    <setting name="ConDefaultPostExtApp">
+    </setting>
+    <setting name="ConDefaultUserField">
+    </setting>
+    <setting name="ConDefaultVNCAuthMode">AuthVNC</setting>
+    <setting name="UpdateUseProxy">False</setting>
+    <setting name="ResetPanels">False</setting>
+    <setting name="InhDefaultRedirectPorts">False</setting>
+    <setting name="InhDefaultRDGatewayUsageMethod">False</setting>
+    <setting name="CustomPuttyPath">
+    </setting>
+    <setting name="ConDefaultRedirectPorts">False</setting>
+    <setting name="UpdateProxyPort">80</setting>
+    <setting name="UVNCSCPort">5500</setting>
+    <setting name="UpdateAddress">https://mremoteng.org/</setting>
+    <setting name="InhDefaultEnableFontSmoothing">False</setting>
+    <setting name="ConDefaultVNCProxyIP">
+    </setting>
+    <setting name="SQLUser">
+    </setting>
+    <setting name="PopupMessageWriterWriteWarningMsgs">False</setting>
+    <setting name="ConDefaultRedirectSmartCards">False</setting>
+    <setting name="PopupMessageWriterWriteDebugMsgs">False</setting>
+    <setting name="ConDefaultRDPAuthenticationLevel">NoAuth</setting>
+    <setting name="MainFormRestoreSize">1145, 610</setting>
+    <setting name="InhDefaultVNCAuthMode">False</setting>
+    <setting name="FirstStart">False</setting>
+    <setting name="CustomConsPath">..\..\Data\confCons.xml</setting>
+    <setting name="NotificationPanelWriterWriteDebugMsgs">False</setting>
+    <setting name="ConDefaultColors">Colors16Bit</setting>
+    <setting name="ShowConfigHelpText">True</setting>
+    <setting name="InhDefaultRDPAuthenticationLevel">False</setting>
+    <setting name="ShowCompleteConsPathInTitle">False</setting>
+    <setting name="AutomaticallyGetSessionInfo">False</setting>
+    <setting name="UpdateProxyAddress">
+    </setting>
+    <setting name="MainFormState">Maximized</setting>
+    <setting name="LoadConsFromCustomLocation">True</setting>
+    <setting name="LoadConsFromCustomLocation">False</setting>
+    <setting name="ConDefaultRDGatewayUsername">
+    </setting>
+    <setting name="MainFormLocation">-8, -8</setting>
+    <setting name="ConDefaultEnableFontSmoothing">False</setting>
+    <setting name="InhDefaultDescription">False</setting>
+    <setting name="InhDefaultVNCProxyIP">False</setting>
+    <setting name="InhDefaultPostExtApp">False</setting>
+    <setting name="ConDefaultVNCProxyPort">0</setting>
+    <setting name="StartupComponentsCheck">False</setting>
+    <setting name="RdpReconnectionCount">5</setting>
+    <setting name="TextLogMessageWriterWriteErrorMsgs">True</setting>
+    <setting name="ExtAppsTBVisible">False</setting>
+    <setting name="InhDefaultRedirectSound">False</setting>
+    <setting name="ExtAppsTBParentDock">Bottom</setting>
+    <setting name="InhDefaultVNCSmartSizeMode">False</setting>
+    <setting name="ConDefaultExtApp">
+    </setting>
+    <setting name="ConDefaultResolution">FitToWindow</setting>
+    <setting name="ConDefaultVNCProxyPassword">
+    </setting>
+    <setting name="UseSQLServer">False</setting>
+    <setting name="MinimizeToTray">False</setting>
+    <setting name="InhDefaultRDPMinutesToIdleTimeout">False</setting>
+    <setting name="InhDefaultPassword">False</setting>
+    <setting name="LogFilePath">..\..\Data\mRemoteNG.log</setting>
+    <setting name="InhDefaultColors">False</setting>
+    <setting name="PuttySavedSessionsPanel">General</setting>
+    <setting name="InhDefaultRDGatewayPassword">False</setting>
+    <setting name="ConDefaultVNCColors">ColNormal</setting>
+    <setting name="SwitchToMCOnError">True</setting>
+    <setting name="InhDefaultRedirectSmartCards">False</setting>
+    <setting name="ConDefaultDescription">
+    </setting>
+    <setting name="ConDefaultUseCredSsp">True</setting>
+    <setting name="UpdatePending">False</setting>
+    <setting name="ConDefaultVNCViewOnly">False</setting>
+    <setting name="NotificationPanelWriterWriteErrorMsgs">True</setting>
+    <setting name="MultiSshToolbarParentDock">Top</setting>
+    <setting name="ConDefaultPassword">
+    </setting>
+    <setting name="SQLDatabaseName">mRemoteNG</setting>
+    <setting name="StartUpPanelName">General</setting>
+    <setting name="ConDefaultRedirectSound">DoNotPlay</setting>
+    <setting name="InhDefaultPanel">False</setting>
+    <setting name="NotificationPanelWriterWriteInfoMsgs">False</setting>
+    <setting name="EncryptCompleteConnectionsFile">False</setting>
+    <setting name="ConDefaultDisplayWallpaper">False</setting>
+    <setting name="InhDefaultRDPAlertIdleTimeout">False</setting>
+    <setting name="SingleInstance">True</setting>
+    <setting name="DoUpgrade">False</setting>
+    <setting name="ThemeName">vs2015light</setting>
+    <setting name="ConRDPOverallConnectionTimeout">20</setting>
+    <setting name="InhDefaultVNCProxyPassword">False</setting>
+    <setting name="DefaultPassword">
+    </setting>
+    <setting name="XULRunnerPath">
+    </setting>
+    <setting name="SingleClickSwitchesToOpenConnection">False</setting>
+    <setting name="OverrideUICulture">
+    </setting>
+    <setting name="LogToApplicationDirectory">False</setting>
+    <setting name="ConDefaultRedirectPrinters">False</setting>
+    <setting name="InhDefaultVNCProxyType">False</setting>
+    <setting name="InhDefaultEnableDesktopComposition">False</setting>
+    <setting name="SwitchToMCOnInformation">True</setting>
+    <setting name="SQLReadOnly">False</setting>
+    <setting name="InhDefaultVNCProxyUsername">False</setting>
+    <setting name="InhDefaultVNCCompression">False</setting>
+    <setting name="OpenTabsRightOfSelected">True</setting>
+    <setting name="ConDefaultRedirectKeys">False</setting>
+    <setting name="ShowSystemTrayIcon">False</setting>
+    <setting name="SupportedUICultures">cs-CZ,de,el,en,en-US,es-AR,es,fr,hu,it,ja-JP,ko-KR,nb-NO,nl,pt,pt-BR,pl,ru,uk,tr-TR,zh-CN,zh-TW</setting>
+    <setting name="InhDefaultRDGatewayUsername">False</setting>
+    <setting name="InhDefaultRDGatewayDomain">False</setting>
+    <setting name="SwitchToMCOnWarning">True</setting>
+    <setting name="UpdateProxyAuthPass">
+    </setting>
+    <setting name="CheckForUpdatesLastCheck">
+    </setting>
+    <setting name="EncryptionKeyDerivationIterations">1000</setting>
+    <setting name="ConDefaultRenderingEngine">IE</setting>
+    <setting name="InhDefaultPreExtApp">False</setting>
+    <setting name="ConDefaultUseConsoleSession">False</setting>
+    <setting name="InhDefaultPort">False</setting>
+    <setting name="CompatibilityWarnLenovoAutoScrollUtility">True</setting>
+    <setting name="InhDefaultIcon">False</setting>
+    <setting name="InhDefaultVNCEncoding">False</setting>
+    <setting name="InhDefaultProtocol">False</setting>
+    <setting name="PopupMessageWriterWriteInfoMsgs">False</setting>
+    <setting name="ConDefaultLoadBalanceInfo">
+    </setting>
+    <setting name="PromptUnlockCredReposOnStartup">True</setting>
+    <setting name="ConDefaultEnableDesktopComposition">False</setting>
+    <setting name="InhDefaultExtApp">False</setting>
+    <setting name="AutoSaveEveryMinutes">0</setting>
+    <setting name="InhDefaultUserField">False</setting>
+    <setting name="ConDefaultRDGatewayDomain">
+    </setting>
+    <setting name="ConDefaultICAEncryptionStrength">EncrBasic</setting>
+    <setting name="ShowLogonInfoOnTabs">False</setting>
+    <setting name="InhDefaultMacAddress">False</setting>
+    <setting name="SQLHost">
+    </setting>
+    <setting name="InhDefaultUsername">False</setting>
+    <setting name="RdpLoadBalanceInfoUseUtf8">False</setting>
+    <setting name="ConDefaultUsername">
+    </setting>
+    <setting name="LockToolbars">False</setting>
+    <setting name="UpdateChannel">Stable</setting>
+    <setting name="ConfirmCloseConnection">4</setting>
+    <setting name="ConDefaultRDPMinutesToIdleTimeout">0</setting>
+    <setting name="SetHostnameLikeDisplayName">False</setting>
+    <setting name="ConDefaultProtocol">RDP</setting>
+    <setting name="MainFormSize">1936, 1056</setting>
+    <setting name="ConDefaultDisplayThemes">False</setting>
+    <setting name="UseFilterSearch">False</setting>
+    <setting name="ConDefaultSoundQuality">Dynamic</setting>
+    <setting name="InhDefaultLoadBalanceInfo">False</setting>
+    <setting name="ConDefaultDomain">
+    </setting>
+    <setting name="CheckForUpdatesFrequencyDays">90</setting>
+    <setting name="ShowProtocolOnTabs">False</setting>
+    <setting name="PopupMessageWriterWriteErrorMsgs">False</setting>
+    <setting name="PuttySavedSessionsName">
+    </setting>
+    <setting name="MultiSshToolbarVisible">False</setting>
+    <setting name="ConDefaultVNCEncoding">EncHextile</setting>
+    <setting name="ConDefaultPanel">General</setting>
+    <setting name="TextLogMessageWriterWriteInfoMsgs">True</setting>
+    <setting name="InhDefaultRenderingEngine">False</setting>
+  </localSettings>
+  <globalSettings>
+    <setting name="AlwaysShowPanelTabs">False</setting>
+    <setting name="BackupFileNameFormat">{0}.{1:yyyyMMdd-HHmmssffff}.backup</setting>
+    <setting name="KeysNextTab">9/8, 34/8</setting>
+    <setting name="BackupFileKeepCount">10</setting>
+    <setting name="KeysPreviousTab">9/9, 33/8</setting>
+    <setting name="QuickConnectProtocol">RDP</setting>
+    <setting name="IdentifyQuickConnectTabs">False</setting>
+  </globalSettings>
+</settings>

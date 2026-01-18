@@ -1,6 +1,9 @@
 ![Logo](https://i.ibb.co/zhWnxvr3/appicon-128.png)
 # mRemoteNG Portable
 
+![Latest](https://img.shields.io/github/downloads/alyonamoskalets/mRemoteNG_Portable/latest/total?sort=semver&style=flat-square&logo=github&label=Latest&labelColor=grey&color=blue)
+![Total](https://img.shields.io/github/downloads/alyonamoskalets/mRemoteNG_Portable/total?style=flat-square&logo=github&label=Total&labelColor=grey&color=blue)
+
 This is a special version for using with **[PortableApps platform](https://portableapps.com/)** on Microsoft Windows(TM) operating system.
 Original software version is located on [official GitHub page](https://github.com/mRemoteNG/mRemoteNG).
 
@@ -30,6 +33,4 @@ You are very welcome to contact me or raise an issue, if any, [here on GitHub](h
 ## :heart: Donation and support
 You can support the further development of this particular project, as well as my other projects on GitHub by buying me a cup of tasty coffee.
 
-![Buy Me A Coffee](https://i.ibb.co/HL7n6p9r/default-yellow-220x62.png)
-
-[Donate](https://www.buymeacoffee.com/alyonamoskalets)
+[![Buy Me A Coffee](https://i.ibb.co/HL7n6p9r/default-yellow-220x62.png)](https://www.buymeacoffee.com/alyonamoskalets)
